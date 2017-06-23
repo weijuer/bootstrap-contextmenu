@@ -1,4 +1,4 @@
-Bootstrap Context Menu
+Bootstrap Context Menu(右键菜单 by weijuer)
 ======================
 
 #This project is unmaintained. Please use the alternative https://github.com/swisnl/jQuery-contextMenu.
